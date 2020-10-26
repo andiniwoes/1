@@ -1,0 +1,33 @@
+.h1, h1 {
+    font-size: 28px;
+}
+.h2, h2 {
+    font-size: 22px;
+}
+p, ul {
+    font-size: 18px;
+}
+hr {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	border: 0;
+	border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+.container-sm {
+	max-width: 1000px;
+}
+
+.bevan {
+	font-family: 'Bevan', cursive;
+}
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+}
+
+.acme {
+	font-family: 'Acme', sans-serif;
+}
+
+
